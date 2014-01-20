@@ -11,7 +11,7 @@
     ],
     "require": {
         "doctrine/data-fixtures": "~1.0",
-        "symfony/console": "~2.3"
+        "symfony/console": "~2.2"
     },
     "suggest": {
         "dflydev/doctrine-orm-service-provider": "1.0.*@dev"
